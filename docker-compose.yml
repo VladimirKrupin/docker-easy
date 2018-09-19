@@ -1,0 +1,39 @@
+#local project
+version: '2'
+services:
+  docker_web:
+    build:
+      context: ./
+      dockerfile: web_dockerfile
+    volumes:
+    - ./code:/code
+    ports:
+    - "3031:80"
+    links:
+    - docker_php
+  docker_php:
+    build:
+      context: ./
+      dockerfile: php_dockerfile
+    volumes:
+    - ./code:/code
+    links:
+    - docker_mysql
+  docker_mysql:
+    image: mysql:5.7
+    environment:
+    - MYSQL_ROOT_PASSWORD=root
+    ports:
+    - "33063:3306"
+    volumes:
+    - ./mysql:/var/lib/mysql
+    - ./autorun/mysql:/autorun/mysql
+  docker_phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      links:
+      - docker_mysql
+      environment:
+        PMA_HOST: docker_mysql
+        PMA_PORT: 3306
+      ports:
+      - '8080:80'

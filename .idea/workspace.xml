@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c28fdad6-6954-4f66-a511-80413b7bd2fe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1187655388">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="365" />
+          <entry key="conf" value="118" />
+          <entry key="default" value="1" />
+          <entry key="docker" value="16" />
+          <entry key="gitignore" value="6" />
+          <entry key="html" value="22" />
+          <entry key="md" value="501" />
+          <entry key="mysql_dockerfile" value="143" />
+          <entry key="php" value="278" />
+          <entry key="sh" value="60" />
+          <entry key="sql" value="13" />
+          <entry key="web_dockerfile" value="61" />
+          <entry key="yml" value="431" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="60" />
+          <entry key="Dockerfile" value="365" />
+          <entry key="HTML" value="22" />
+          <entry key="Markdown" value="501" />
+          <entry key="PHP" value="278" />
+          <entry key="PLAIN_TEXT" value="227" />
+          <entry key="SQL" value="13" />
+          <entry key="SmartyConfig" value="118" />
+          <entry key="YAML" value="431" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="4" />
+          <entry key="conf" value="8" />
+          <entry key="default" value="2" />
+          <entry key="docker" value="5" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="2" />
+          <entry key="md" value="1" />
+          <entry key="mysql_dockerfile" value="1" />
+          <entry key="php" value="8" />
+          <entry key="php_dockerfile" value="1" />
+          <entry key="sh" value="5" />
+          <entry key="sql" value="2" />
+          <entry key="web_dockerfile" value="1" />
+          <entry key="yml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="5" />
+          <entry key="Dockerfile" value="4" />
+          <entry key="HTML" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PHP" value="8" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="SQL" value="2" />
+          <entry key="SmartyConfig" value="8" />
+          <entry key="YAML" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="38" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php_dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autorun/mysql/test.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>redirect</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/entrypoint.sh" />
+        <option value="$PROJECT_DIR$/start.sh" />
+        <option value="$PROJECT_DIR$/autorun/conf/default" />
+        <option value="$PROJECT_DIR$/start-script.sh" />
+        <option value="$PROJECT_DIR$/autorun/conf/supervisord.conf" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/app/index.php" />
+        <option value="$PROJECT_DIR$/myDocker/php/index.php" />
+        <option value="$PROJECT_DIR$/myDocker/php/Dockerfile" />
+        <option value="$PROJECT_DIR$/myDocker/code/site.conf" />
+        <option value="$PROJECT_DIR$/myDocker/code/index.html" />
+        <option value="$PROJECT_DIR$/myDocker/autorun/conf/site.conf" />
+        <option value="$PROJECT_DIR$/myDocker/autorun/conf/php.conf" />
+        <option value="$PROJECT_DIR$/myDocker/autorun/conf/php-extensions.conf" />
+        <option value="$PROJECT_DIR$/myDocker/code/index.php" />
+        <option value="$PROJECT_DIR$/myDocker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/payoola-docker-dev/web/app.docker" />
+        <option value="$PROJECT_DIR$/payoola-docker-dev/web/web.docker" />
+        <option value="$PROJECT_DIR$/payoola-docker-dev/web/vhost.conf" />
+        <option value="$PROJECT_DIR$/payoola-docker-dev/code/index.php" />
+        <option value="$PROJECT_DIR$/payoola-docker-dev/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/autorun/dockerfiles/web_dockerfile" />
+        <option value="$PROJECT_DIR$/code/index.html" />
+        <option value="$PROJECT_DIR$/php_dockerfile" />
+        <option value="$PROJECT_DIR$/conf/vhost.conf" />
+        <option value="$PROJECT_DIR$/autorun/dumps/access.sql" />
+        <option value="$PROJECT_DIR$/web_dockerfile" />
+        <option value="$PROJECT_DIR$/autorun/mysql/access.sql" />
+        <option value="$PROJECT_DIR$/autorun/start-scripts/mysql-script.sh" />
+        <option value="$PROJECT_DIR$/mysql_dockerfile" />
+        <option value="$PROJECT_DIR$/code/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="124" />
+    <option name="y" value="27" />
+    <option name="width" value="1181" />
+    <option name="height" value="636" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dockerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="autorun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="autorun" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="autorun" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/autorun" />
+      <recent name="$PROJECT_DIR$/autorun/dockerfiles" />
+      <recent name="$PROJECT_DIR$/myDocker/autorun" />
+      <recent name="$PROJECT_DIR$/myDocker/autoload/conf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/autorun/dumps" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/autorun/dockerfiles" />
+      <recent name="$PROJECT_DIR$/autorun/conf" />
+      <recent name="$PROJECT_DIR$/payoola-docker-dev" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28fdad6-6954-4f66-a511-80413b7bd2fe" name="Default Changelist" comment="" />
+      <created>1537164589615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537164589615</updated>
+      <workItem from="1537164591234" duration="2576000" />
+      <workItem from="1537168978286" duration="12327000" />
+      <workItem from="1537190667622" duration="5010000" />
+      <workItem from="1537247055095" duration="6588000" />
+      <workItem from="1537258281674" duration="599000" />
+      <workItem from="1537260265415" duration="8326000" />
+      <workItem from="1537275580071" duration="16522000" />
+      <workItem from="1537354193155" duration="9172000" />
+      <workItem from="1537366952239" duration="1383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62503000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="25" width="1321" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28470588" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25774878" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="12" weight="0.3284553" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/entrypoint.sh" />
+    <entry file="file://$PROJECT_DIR$/app/index.php" />
+    <entry file="file://$PROJECT_DIR$/autorun/conf/default" />
+    <entry file="file://$PROJECT_DIR$/myDocker/autorun/conf/default" />
+    <entry file="file://$PROJECT_DIR$/myDocker/php/index.php" />
+    <entry file="file://$PROJECT_DIR$/myDocker/php/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/myDocker/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/myDocker/start-script.sh" />
+    <entry file="file://$PROJECT_DIR$/myDocker/autorun/conf/site.conf" />
+    <entry file="file://$PROJECT_DIR$/myDocker/autorun/conf/php.conf" />
+    <entry file="file://$PROJECT_DIR$/myDocker/autorun/conf/php-extensions.conf" />
+    <entry file="file://$PROJECT_DIR$/payoola-docker-dev/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/myDocker/code/index.php" />
+    <entry file="file://$PROJECT_DIR$/start-script.sh" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/payoola-docker-dev/code/index.php" />
+    <entry file="file://$PROJECT_DIR$/payoola-docker-dev/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/autorun/conf/supervisord.conf" />
+    <entry file="file://$PROJECT_DIR$/payoola-docker-dev/web/vhost.conf" />
+    <entry file="file://$PROJECT_DIR$/payoola-docker-dev/web/app.docker" />
+    <entry file="file://$PROJECT_DIR$/myDocker/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/payoola-docker-dev/web/web.docker" />
+    <entry file="file://$PROJECT_DIR$/code/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autorun/conf/vhost.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autorun/start-scripts/mysql-script.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autorun/mysql/access.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autorun/mysql/test.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
