@@ -7,7 +7,7 @@ Append this line to /etc/hosts:
 
 Start docker with command:
 
-    docker-compose up
+    docker-compose up -d
     
 Open this url with browser:
 
@@ -15,7 +15,7 @@ Open this url with browser:
 
 and autorize using login: root, password: root.
 
-After autorization create table "test" and download dump in table test from dockerProject/autorun/mysql/test.sql
+With phpMyAdmin create database named "test". Its dump is located in docker-project/autorun/mysql/test.sql. Upload the dump into newly created DB.
 
 Paste this address into your browser and see:
 
