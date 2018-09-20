@@ -1,18 +1,35 @@
-**Docker project with Nginx php-fpm mysql phpmyadmin**<br>
+### Docker project with nginx, php-fpm, mysql and phpmyadmin
 _start project for local assembly_
 
-`vim /etc/hosts` - put in this file "127.0.1.1 docker-project"<br>
-`docker-compose up`<br>
-`http://localhost:8080/` - in browser input this and autorization as login: root password: root<br>
-`after autorization create table "test" and download dump in table test from dockerProject/autorun/mysql/test.sql`<br>
-`http://docker-project:3031/` - in browser input this and see<br>
+Append this line to /etc/hosts:
 
+    127.0.1.1 docker-project
+
+Start docker with command:
+
+    docker-compose up -d
+    
+Open this url with browser:
+
+    http://localhost:8080/
+
+and autorize using login: root, password: root.
+
+With phpMyAdmin create database named "test". Its dump is located in docker-project/autorun/mysql/test.sql. Upload the dump into newly created DB.
+
+Paste this address into your browser and see:
+
+    http://docker-project:3031/
 
 
 ______________________________________________________________
-**WARNING! Commands for remove all docker containers!**
+**WARNING! Commands to remove all docker containers!**
     
-*Remove all containers №1*
-sudo docker rm $(sudo docker ps -a -q)
-*Remove all containers №2*
-sudo docker rmi $(sudo docker images -q)   
+*Remove all containers*
+
+    sudo docker rm $(sudo docker ps -a -q)
+
+*Remove all images*
+
+    sudo docker rmi $(sudo docker images -q)
+
